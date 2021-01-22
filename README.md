@@ -8,9 +8,10 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 - 🌱 I’m currently learning SVG animations, Netlify CMS widgets and Violin 🎻
 - 💬 Ask me about Punk-rock music, Vue.js, Guitar or violin playing, Web-Audio funny projects...
 - 🎸 Have some fun in my page [noise-box](https://www.noise-box.es/)
+- 📫 How to reach me: [Twitter](https://twitter.com/turugalan)
+
 
 <pre>
-
 |￣￣￣￣￣￣ |
 |   ENJOY   |
 |  CODING!  | 
@@ -22,7 +23,6 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 
 
 
-- 📫 How to reach me: [Twitter](https://twitter.com/turugalan)
   
 
 
