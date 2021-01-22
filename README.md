@@ -10,13 +10,17 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 - 🎸 Have some fun in my page [noise-box](https://www.noise-box.es/)
 
 <pre>
-|￣￣￣￣￣￣ |  
-| ENJOY     |  
-| CODING!   |  
-| ＿＿＿＿＿__|  
-(\\___/) ||  
-(•ㅅ•)    ||  
+
+```
+|￣￣￣￣￣ |
+|  ENJOY    |
+|  CODING!  |
+| ＿＿＿＿__|
+(\__/)  ||
+(•ㅅ•)  ||
 / 　 づ
+```
+
 </pre>
 
 
