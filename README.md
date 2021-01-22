@@ -11,11 +11,11 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 
 <pre>
 |￣￣￣￣￣￣ |  
-| ENJOY           |  
-| CODING!       |  
+| ENJOY     |  
+| CODING!   |  
 | ＿＿＿＿＿__|  
-(\\___/)      ||  
-(•ㅅ•) ||  
+(\\___/) ||  
+(•ㅅ•)    ||  
 / 　 づ
 </pre>
 
