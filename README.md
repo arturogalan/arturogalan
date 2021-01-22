@@ -2,8 +2,6 @@
 
 Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.arturogalan.com/)**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arturogalan.arturogalan) 
-
 - 🔭 I’m currently working on [Clarity.ai](https://www.clarity.ai/)
 - 🌱 I’m currently learning SVG animations, Netlify CMS widgets and Violin 🎻
 - 💬 Ask me about Punk-rock music, Vue.js, Guitar or violin playing, Web-Audio funny projects...
@@ -22,6 +20,7 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 </pre>
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arturogalan.arturogalan) 
 
   
 
