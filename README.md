@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.arturogalan.com/)**
+Welcome to my Github, you can know more about me at **[✨arturo.galan.com✨](https://www.arturogalan.com/)**
 
 - 🔭 I’m currently working on [Clarity.ai](https://www.clarity.ai/)
 - 🌱 I’m currently learning SVG animations, Netlify CMS widgets and Violin 🎻
