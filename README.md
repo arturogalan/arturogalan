@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=arturogalan)](https://github.com/arturogalan/github-readme-stats)
+Welcome to my Github, you can know about my at [My portfolio page](https://www.arturogalan.com/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arturogalan.arturogalan) 
+
 
 <!--
 **arturogalan/arturogalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=arturogalan)](https://github.com/arturogalan/github-readme-stats)
 
 Here are some ideas to get you started:
 
