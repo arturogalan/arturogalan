@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=arturogalan)](https://github.com/arturogalan/github-readme-stats)
+
 <!--
 **arturogalan/arturogalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
