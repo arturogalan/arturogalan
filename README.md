@@ -9,7 +9,6 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 - 💬 Ask me about Punk-rock music, Vue.js, Guitar or violin playing, Web-Audio funny projects...
 - 🎸 Have some fun in my page [noise-box](https://www.noise-box.es/)
 
-<pre>
 
 ```
 |￣￣￣￣￣ |
@@ -20,8 +19,6 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 (•ㅅ•)  ||
 / 　 づ
 ```
-
-</pre>
 
 
 <!--
