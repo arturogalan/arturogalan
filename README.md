@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Welcome to my Github, you can know about me at [arturo.galan.com](https://www.arturogalan.com/)
+Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.arturogalan.com/)**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arturogalan.arturogalan) 
 
 - 🔭 I’m currently working on [Clarity.ai](https://www.clarity.ai/)
 - 🌱 I’m currently learning SVG animations, Netlify CMS widgets and Violin 🎻
-- 💬 Ask me about Punk-rock music, Vue.js
+- 💬 Ask me about Punk-rock music, Vue.js, Guitar or violin playing, Web-Audio funny projects...
 - 🎸 Have some fun in my page [noise-box](https://www.noise-box.es/)
 
 <!--
