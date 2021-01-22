@@ -20,6 +20,12 @@ Welcome to my Github, you can know about me at **[arturo.galan.com](https://www.
 / 　 づ
 </pre>
 
+
+
+- 📫 How to reach me: [Twitter](https://twitter.com/turugalan)
+  
+
+
 <!--
 **arturogalan/arturogalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=arturogalan)](https://github.com/arturogalan/github-readme-stats)
