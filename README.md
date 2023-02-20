@@ -2,7 +2,7 @@
 
 Welcome to my Github, you can know more about me at **[✨arturo.galan.com✨](https://www.arturogalan.com/)**
 
-- 🔭 I’m currently working at [Clarity.ai](https://www.clarity.ai/)
+- 🔭 I’m currently working at [Modash](https://www.modash.io/)
 - 🌱 I’m learning SVG animations, Three.js and Violin 🎻
 - 💬 Ask me about music (Guitar or violin playing), Javascript, Web-Audio, IOT funny projects...
 - 🎸 Have some fun in my page [noise-box](https://www.noise-box.es/)
